@@ -115,6 +115,9 @@ class CommandBigSajoin : public Command
 
 class ModuleBigSajoin : public Module
 {
+	
+ private:
+ 	
 	CommandBigSajoin cmd;
  public:
  
